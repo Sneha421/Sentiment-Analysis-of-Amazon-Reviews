@@ -6,9 +6,9 @@ This project deals with text analysis, visualization and prediction of sentiment
 The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews) from Kaggle has been used
 
 ## Technologies Used
-1. Pyspark for Data Engineering
-2. The ML and MLLib libraries for prediction
-3. Anvil for building the GUI. It is a free Python-based drag-and-drop web app builder.
+1. **Pyspark** - For Data Engineering
+2. **The ML and MLLib libraries** - For prediction
+3. **Anvil** - For building the GUI. It is a free Python-based drag-and-drop web app builder.
 
 ## Steps to run the GUI
 1. Download the files given in the folder ***Anvil Files***. These contain the saved models and vectorizers on which the GUI will run
