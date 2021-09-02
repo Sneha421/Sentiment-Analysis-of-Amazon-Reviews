@@ -25,4 +25,6 @@ The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)
 2. Run all the cells given in ***Anvil_GUI.ipynb***. This can be found in ***Code Files*** -> ***Anvil_GUI.ipynb***
 3. Go to [this link](https://CZNWQDQQC76FC5MI.anvil.app/CTX52FSLFD4YJVPTIRVSXLSV) to run the GUI
 
+![image](https://user-images.githubusercontent.com/61591312/131794780-661dfcdc-4104-4617-9d4a-41b992858a33.png)
+
 
