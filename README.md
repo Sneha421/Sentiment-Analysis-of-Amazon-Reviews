@@ -6,7 +6,7 @@ This project deals with text analysis, visualization and prediction of the senti
 The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews) from Kaggle has been used.
 
 ## Workflow 
-![image](https://user-images.githubusercontent.com/61591312/131794132-f3db3f99-5cbc-4d7a-a8f1-79ea202d1b44.png)
+![image](https://user-images.githubusercontent.com/61591312/131795303-bcadb0c2-1f2a-4704-9ed2-879f4143e823.png)
 
 *General Workflow of Implementation*
 
