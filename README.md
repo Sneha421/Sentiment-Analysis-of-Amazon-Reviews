@@ -8,12 +8,12 @@ The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)
 ## Workflow 
 ![image](https://user-images.githubusercontent.com/61591312/131795303-bcadb0c2-1f2a-4704-9ed2-879f4143e823.png)
 
-*General Workflow of Implementation*
+***General Workflow of Implementation***
 
 
 ![image](https://user-images.githubusercontent.com/61591312/131794262-da636f50-3baa-48e8-aeab-2afcb92a9abd.png)
 
-*Steps of NLP*
+***Steps of NLP***
 
 ## Technologies Used
 1. **Pyspark** - For Data Engineering
