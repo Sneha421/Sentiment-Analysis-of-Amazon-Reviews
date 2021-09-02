@@ -6,7 +6,14 @@ This project deals with text analysis, visualization and prediction of the senti
 The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews) from Kaggle has been used.
 
 ## Workflow 
+![image](https://user-images.githubusercontent.com/61591312/131794132-f3db3f99-5cbc-4d7a-a8f1-79ea202d1b44.png)
 
+*General Workflow of Implementation*
+
+
+![image](https://user-images.githubusercontent.com/61591312/131794262-da636f50-3baa-48e8-aeab-2afcb92a9abd.png)
+
+*Steps of NLP*
 
 ## Technologies Used
 1. **Pyspark** - For Data Engineering
