@@ -13,7 +13,7 @@ The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)
 
 ![image](https://user-images.githubusercontent.com/61591312/131794262-da636f50-3baa-48e8-aeab-2afcb92a9abd.png)
 
-***Steps of NLP***
+***Steps for Natural Language Processing***
 
 ## Technologies Used
 1. **Pyspark** - For Data Engineering
