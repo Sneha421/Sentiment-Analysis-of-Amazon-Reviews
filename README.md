@@ -2,6 +2,11 @@
 ## About
 This project deals with text analysis, visualization and prediction of the sentiment of the reviews from the Amazon Reviews Dataset. A comparative study of various Machine Learning algorithms has been performed to understand which one produces the best results.
 
+## Team Members
+1) [Dipshikha Biswas](https://github.com/dipshikha461)
+2) [Harshitha Nagarajan](https://github.com/HarshithaNagarajan)
+3) [Sneha B](https://github.com/Sneha421)
+
 ## Dataset Used
 The [Amazon Reviews Dataset](https://www.kaggle.com/bittlingmayer/amazonreviews) from Kaggle has been used.
 
